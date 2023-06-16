@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Predict_Age</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="camera">Camera</string>
+    <string name="image">Image</string>
+    <string name="info">Info</string>
+    <string name="Predict_Age_1">Phần mềm dư đoán tuổi</string>
+    <string name="Predict_Age_2">thông qua khuôn mặt</string>
+    <string name="teacher">Teacher</string>
+    <string name="Teacher">TS. Nguyễn Tuấn Linh</string>
+    <string name="auther">Auther</string>
+    <string name="name">Họ và tên:</string>
+    <string name="myName">Phạm Sỹ Quang</string>
+    <string name="Class">Lớp:</string>
+    <string name="myClass">55KMT</string>
+    <string name="mssv">MSSV:</string>
+    <string name="myMSSV">K195480106018</string>
+</resources>
